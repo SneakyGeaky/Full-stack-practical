@@ -1074,24 +1074,5 @@ border-radius: 10px;}
   color: white;
 }
 
-input[type=range]::-webkit-slider-runnable-track {
-  width: 4rem;
-  height: 0.5rem;
-  background: #FFAB4C;
-  border-radius: 1rem;
-}
 
-input[type=range]::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  border: none;
-  height: 16px;
-  width: 16px;
-  border-radius: 50%;
-  background: goldenrod;
-  margin-top: -4px;
-}
-
-/* .header__container {
-  display: inline-block;
-} */
 
